@@ -1,0 +1,3 @@
+# Dimond pattern
+
+for(int )

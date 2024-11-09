@@ -1,0 +1,2 @@
+class Vehicale:
+    def __
