@@ -1,0 +1,6 @@
+# 2. Find the factorial of a number in python
+num = int(input("Enter Number : "))
+
+for i in range(num):
+    if i == 0:
+        

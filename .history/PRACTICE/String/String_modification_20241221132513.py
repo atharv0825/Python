@@ -1,0 +1,2 @@
+str1 = "  ATHARV PRAVIN BABAR"
+

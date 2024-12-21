@@ -1,0 +1,6 @@
+
+try:
+    with open() as 
+
+
+
