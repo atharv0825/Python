@@ -11,12 +11,4 @@ class student :
 
 
 student1 = student(10,"Atharv",21)
-student2 = student(12,"Shatkon",9) 
-
-print("Student 1 details")
-student1.display_details()
-
-print("\nStudent 2 details")
-student2.display_details()  
-
-# Output: Name : Atharv Roll No : 10 age : 21
+student2 = student(12,"Shat")                      

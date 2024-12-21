@@ -1,0 +1,2 @@
+# single inheritance
+class person

@@ -18,5 +18,3 @@ student1.display_details()
 
 print("\nStudent 2 details")
 student2.display_details()  
-
-# Output: Name : Atharv Roll No : 10 age : 21
