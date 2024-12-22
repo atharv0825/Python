@@ -1,0 +1,2 @@
+# Multilevel inheritance
+class Grandfather
